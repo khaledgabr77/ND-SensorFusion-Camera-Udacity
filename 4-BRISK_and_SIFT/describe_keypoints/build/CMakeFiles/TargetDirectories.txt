@@ -1,0 +1,3 @@
+/home/khaled/ND-SensorFuison-Camera-Udacity/4-BRISK_and_SIFT/describe_keypoints/build/CMakeFiles/rebuild_cache.dir
+/home/khaled/ND-SensorFuison-Camera-Udacity/4-BRISK_and_SIFT/describe_keypoints/build/CMakeFiles/edit_cache.dir
+/home/khaled/ND-SensorFuison-Camera-Udacity/4-BRISK_and_SIFT/describe_keypoints/build/CMakeFiles/describe_keypoints.dir
